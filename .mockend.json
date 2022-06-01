@@ -1,20 +1,41 @@
-[
-    {
-    "nidn": "22290110001",
-    "id_sms": "PAI",
-    "lock_id": "163535",
-    "nik": "1403091905990009",
-    "nip": "1403091905",
-    "nm_dsn": "MUHAMMAD SIDIQ ALRABI",
-    "id_jenj_didik": 11
-},
 {
-    "nidn": "73656573",
-    "id_sms": "TIF",
-    "lock_id": "235345",
-    "nik": "2342353534",
-    "nip": "23523534",
-    "nm_dsn": "DZAKY ABDILLAH",
-    "id_jenj_didik": 11
+    "Dosen": {
+        "nm_dsn": {
+            "string": [
+              "DZAKY ABDILLAH",
+              "IMADUDDIEN"
+            ]
+          },
+          "id_jenj_didik": {
+            "int": [
+              11,
+              11
+            ]
+          },
+          "id_sms": {
+            "string": [
+              "PAI",
+              "TIF"
+            ]
+          },
+          "lock_id": {
+            "string": [
+              "124214",
+              "712443"
+            ]
+          },
+          "nik": {
+            "string": [
+              "23747564",
+              "21423434"
+            ]
+          },
+          "nip": {
+            "string": [
+              "23423435",
+              "24121334"
+            ]
+        }
+
+    }
 }
-]
